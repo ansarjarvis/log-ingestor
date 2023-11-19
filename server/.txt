@@ -1,0 +1,3 @@
+create env file add this. 
+
+MONGO_URL = yoururlhere
